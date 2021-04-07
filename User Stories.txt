@@ -1,0 +1,32 @@
+As a member of the UVW marketing team, I want to know if the age of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+As a member of the UVW marketing team, I want to know if the education-num of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+
+As a member of the UVW marketing team, I want to know if the sex of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+As a member of the UVW marketing team, I want to know if the capital gain of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+As a member of the UVW marketing team, I want to know if the hours per week an
+individual works is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+As a member of the UVW marketing team, I want to know if the occupation of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+As a member of the UVW marketing team, I want to know if the race of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
+
+As a member of the UVW marketing team, I want to know if the education of an
+individual is a relevant factor in determining their income label so that I can decide whether or
+not it should be integrated into our team’s prediction tool.
