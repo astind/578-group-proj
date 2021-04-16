@@ -5,10 +5,10 @@ const pink = '#bc5090';
 
 export default {
     blue,
-    blueTransparent: Color(blue).alpha(0.7).hsl().string(),
+    blueTransparent: Color(blue).alpha(0.2).hsl().string(),
     purple: '#58508d',
     pink,
-    pinkTransparent: Color(pink).alpha(0.7).hsl().string(),
+    pinkTransparent: Color(pink).alpha(0.2).hsl().string(),
     red: '#ff6361',
     yellow: '#ffa600'
 };
